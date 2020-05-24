@@ -1,19 +1,19 @@
 
 # Google Season of Doc 2020
 
-Joplin has a young but well proven history. It all started by single idea but is rising more and more commitment as well as demands.
+Joplin has a young but well-proven history. It all started with a single idea but is expanding in both commitment and improvements.
 
-Joplin is about to make another big step to answers these demands by being an organization at Google Summer of Code 2020. 
-During the young history of the GSoC campaign it was noticed that it would be a greate help if documenation is centralized and making it a continuous read.  The current documentation tells when to do what and how clearly. In addition, the source code of Joplin is clean and well strucutred, so it is easy to understand. 
-Nevertheless, there are additional and essential information scattered around on the Forum and GitHub which rely on an active community, so that are being shared with them who need them. It can be said that this happens very well but it is aggreed that this situation has to be improved to free resources for working on the source coden and lower entry barriers for new contributors.
+Joplin is about to make another big step to address these demands by establishing itself as an organization at Google Summer of Code 2020. 
+During the young history of the GSoC campaign there was a realization that both the centralization of documentation and making it a "continuous read" would be highly desirable. Joplin's source code is clean and well structured, and it has adequate documentration, so it is easy to understand. 
+However, various bits of additional and essential information are scattered around the Joplin Forum and on GitHub for use by the active development community. Although this states of affairs works well for those who need the information, there is general agreement that the situation can be improved in oreder to free up resources for working on the source code and to create lower entry barriers for new contributors.
 
-For these reasons, all students and Joplin users and developers are welcome to participate in the hopefully first year Summer of Docs program with Joplin. Here's how.
+For these reasons, all interested students, Joplin users and developers are being invited to participate in the first year Summer of Docs program with Joplin. Continue reading for further information.
 
-Mentors, administrators and students: read [Season of Docs](https://developers.google.com/season-of-docs) occasionally. Also read the [Season of Docs FAQ](https://developers.google.com/season-of-docs/docs/faq).   
-**Most IMPORTANT, read this page carefully, line by line. We don't want to quote pharagraphs from this page answering question in the forum.   
-Moreover, watch/subscribe the topic [GSoC 2020 live blog](https://discourse.joplinapp.org/t/gsoc-2020-live-blog/6219) as this page here contains rather static content whereas the mentioned topic is updated much more freuqently.**
+*For mentors, administrators and students*: Read and review [Season of Docs](https://developers.google.com/season-of-docs). Also read the [Season of Docs FAQ](https://developers.google.com/season-of-docs/docs/faq).   
+**Most IMPORTANTLY, read this page carefully, "line-by-line." *We don't want to have to quote pharagraphs from this page answering question in the forum.*   
+Please also watch/subscribe the topic [GSoC 2020 live blog](https://discourse.joplinapp.org/t/gsoc-2020-live-blog/6219), as this page contains static content whereas the GSoc topic is updated much more freuqently.**
 
-All participants will need a Google account in order to join the program. So, save time and create one now. In addition, all participants need to join the  [Joplin Forum](https://discourse.joplinapp.org).
+All participants will need a Google account in order to join the program (if you don't have a Google account, you can save time and effort in the future by creating one for yourself now). All participants should also join the [Joplin Forum](https://discourse.joplinapp.org).
 
 ---
 
